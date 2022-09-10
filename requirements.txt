@@ -1,1 +1,5 @@
 rich
+os
+IPython
+pandas
+regex
